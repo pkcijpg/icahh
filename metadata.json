@@ -1,0 +1,6 @@
+{
+  "name": "CreativeSpark",
+  "description": "Asisten akademis mahasiswa untuk menyusun proyek PjBL, draf claims portofolio SKPI, dan mitigasi stres belajar serta bias ketergantungan model AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
